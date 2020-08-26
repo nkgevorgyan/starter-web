@@ -8,6 +8,10 @@ Some intro.
 
 ## Purpose
 
+Purpoooooose
+
 ## Deployment
+
+Deployment is easy
 
 ## How to contribute
