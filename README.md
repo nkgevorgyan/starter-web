@@ -15,3 +15,7 @@ Purpoooooose
 Deployment is easy
 
 ## How to contribute
+
+### Copyright
+
+2014 Git Copyrights
